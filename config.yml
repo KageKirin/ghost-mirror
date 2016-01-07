@@ -1,0 +1,10 @@
+ghost:
+  url: 'https://kyokushindoapp.herokuapp.com'
+  headers:
+    Authorization: 'Bearer '
+  params:
+    client_id: 'ghost-frontend'
+    client_secret: ''
+
+output:
+  local_dir: './out'
